@@ -1,0 +1,10 @@
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\bin\Debug\BattleshipsPro.exe.config
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\bin\Debug\BattleshipsPro.exe
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\bin\Debug\BattleshipsPro.pdb
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.csproj.AssemblyReference.cache
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.Properties.Resources.resources
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.csproj.GenerateResource.cache
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.csproj.CoreCompileInputs.cache
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.exe
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.pdb
+C:\Users\Eryk Nejfert\source\repos\BattleshipsPro\BattleshipsPro\obj\Debug\BattleshipsPro.Form1.resources
